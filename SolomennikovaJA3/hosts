@@ -1,0 +1,7 @@
+127.0.0.1	localhost.localdomain localhost localhost.localdomain localhost
+::1		localhost localhost.localdomain
+
+192.168.47.129 nginx.local
+192.168.47.131 mysql.local
+192.168.47.130 app1.local
+192.168.47.132 app2.local
